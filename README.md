@@ -4,7 +4,7 @@ Final-year **Computer Engineering** student at the University of Cádiz (Informa
 
 🎓 Starting my Bachelor's Thesis in February 2027.
 
-💼 **Open to junior or internship roles from March 2027.**
+💼 **Open to junior or internship roles from February 2027.**
 
 ### Projects
 
