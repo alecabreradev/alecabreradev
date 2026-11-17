@@ -1,10 +1,10 @@
 ## Hi, I'm Alejandro 👋
 
-Final-year **Computer Engineering** student at the University of Cádiz (Information Systems), with an Erasmus+ year at the University of Wrocław. I build full-stack apps, machine learning models and, lately, assistants that query databases in natural language.
+Final-year **Computer Engineering** student at the University of Cádiz (Information Systems), with an Erasmus+ year studying Computer Science at the University of Wrocław. During my degree I’ve built mobile and web apps end to end and machine learning models with real data.
 
-🎓 Starting my Bachelor's Thesis in February 2027.
+💼 **Open to junior or internship roles · university internship agreement possible.**
 
-💼 **Open to junior or internship roles from February 2027.**
+🌐 Portfolio: **[alecabreradev.github.io](https://alecabreradev.github.io)**
 
 ### Projects
 
@@ -22,6 +22,6 @@ Final-year **Computer Engineering** student at the University of Cádiz (Informa
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/alejandro-cabrera-mateo) · alecabre.22@gmail.com
+[LinkedIn](https://www.linkedin.com/in/alejandro-cabrera-mateo-6761b030b/) · alecabre.22@gmail.com
 
 🇪🇸 Spanish (native) · 🇬🇧 English (professional)
