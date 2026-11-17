@@ -2,7 +2,7 @@
 
 Final-year **Computer Engineering** student at the University of Cádiz (Information Systems), with an Erasmus+ year at the University of Wrocław. I build full-stack apps, machine learning models and, lately, assistants that query databases in natural language.
 
-🎓 Starting my Bachelor's Thesis in February 2027: an LLM assistant for environmental data using **Text-to-SQL** and **RAG** with multitenant isolation.
+🎓 Starting my Bachelor's Thesis in February 2027.
 
 💼 **Open to junior or internship roles from March 2027.**
 
