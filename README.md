@@ -11,7 +11,7 @@ Final-year **Computer Engineering** student at the University of Cádiz (Informa
 | Project | What it is | Stack |
 |---|---|---|
 | [**Madrid NO₂ forecast**](https://github.com/alecabreradev/madrid-no2-forecast-project) | Predicts high-pollution days one day ahead with open data. PR-AUC 0.83 vs. 0.65 for the naive baseline. | Python · Scikit-learn · XGBoost · Pandas |
-| **Corte & Arte** | Booking app for a hair salon: Android app, REST API and website. | Kotlin · Jetpack Compose · Node.js · Express · Firebase |
+| [**Corte & Arte**](https://github.com/alecabreradev/CorteyArte) | Booking system for a hair salon: Android app and React website sharing one REST API. | Kotlin · Jetpack Compose · React · Node.js · Express · MongoDB |
 
 ### Tech stack
 
